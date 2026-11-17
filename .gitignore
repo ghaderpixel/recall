@@ -1,0 +1,25 @@
+
+# Raw NHTSA datasets
+data/raw/
+
+# Processed datasets
+data/processed/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# ML artifacts
+ml/artifacts/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
